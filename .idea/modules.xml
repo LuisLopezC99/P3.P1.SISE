@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1SISE.iml" filepath="$PROJECT_DIR$/Proyecto1SISE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/barcodes.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/barcodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/commons.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/font-asian.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/font-asian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/forms.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/forms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/hyph.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/hyph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/io.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/itext7-core.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/itext7-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/kernel.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/kernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/layout.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/pdfa.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/pdfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/pdftest.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/pdftest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/root.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/sign.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/sign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/styled-xml-parser.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/styled-xml-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/svg.iml" filepath="$PROJECT_DIR$/Proyecto1 SISE.LuisLopezC99/libs/iTextPDF/svg.iml" />
+    </modules>
+  </component>
+</project>

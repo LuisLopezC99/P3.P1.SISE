@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.verapdf:core:1.20.1" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.verapdf" artifactId="core" version="1.20.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/verapdf/core/1.20.1/core-1.20.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/verapdf/core/1.20.1/core-1.20.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/verapdf/core/1.20.1/core-1.20.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
